@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+        <remote name="Anita09876"
+                fetch="https://github.com" />
+
+        <!-- Sync trees -->
+        <project path="device/xiaomi/rolex" name="Anita09876/device_xiaomi_rolex" remote="Anita09876" revision="10" />
+        <project path="kernel/xiaomi/msm8917" name="Anita09876/android_kernel_xiaomi_msm8917" remote="Anita09876" revision="lineage-17.1" />
+        <project path="vendor/xiaomi" name="Anita09876/vendor_xiaomi_rolex" remote="Anita09876" revision="lineage-17.1" />
+
+</manifest>
